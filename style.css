@@ -7,6 +7,12 @@
     padding: 0 30px;
     height: 100%;
 }
+.header {
+  background-color: #78be20;
+}
+.header a {
+  color: #fff;
+}
 
 .logo img {
     max-height: 70px;
@@ -49,6 +55,7 @@
     background-color: #333;
     margin: 5px;
     transition: all 0.3s ease-in-out;
+}
   /* HAMBURGER ICON */
 .hamburger {
   display: none;
